@@ -1,0 +1,21 @@
+page-login {
+  ion-title *
+  {
+    margin-top: 30vh;
+  }
+  .Regtext{
+    font-size: large;
+  }
+  .LoginButton
+  {
+    border-radius: 12px;
+    background-color: #BD2031;
+  }
+  .LoginButton:hover
+  {
+    background-color: #802A2A;
+  }
+
+
+
+}
